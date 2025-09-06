@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Jan Rusell Engracial  
 
-<!--
-**janrusell-dev/janrusell-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+- 🔭 Backend developer focusing on **APIs, system design, and databases**  
+- 🌱 Learning more about **cloud services, distributed systems, and message brokers**  
+- 💻 Mainly working with **Go, C#, and SQL**  
+- ⚡ I like building **scalable and reliable systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+- **Languages:** Go, C#, JavaScript  
+- **Frameworks:** ASP.NET, Node.js  
+- **Databases:** SQL Server, PostgreSQL  
+- **DevOps / Tools:** Docker, Git, AWS  
+
+---
+
+## 📫 Connect With Me  
+- [LinkedIn]()  
+
