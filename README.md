@@ -30,12 +30,12 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64" height="64" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript"/>
-
+</p>
 
 ### Backend & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="64" height="64" alt="ASP.NET"/>
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" height="64" alt="Django"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" height="64" alt="Django"/>
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="64" height="64" alt="Gin"/>
 </p>
 
