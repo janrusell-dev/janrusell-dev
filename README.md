@@ -30,7 +30,7 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="64" height="64" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript"/>
-</p>
+
 
 ### Backend & Frameworks
 <p align="center">
