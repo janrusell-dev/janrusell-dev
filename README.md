@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** from **Cebu City, Philippines** 🇵🇭, passionate about building **scalable, efficient, and reliable systems**.
+I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about building **scalable, efficient, and reliable systems**.
 
 - 🔭 Currently working on **microservices architecture with Go**
 - 🌱 Learning **distributed systems and cloud-native technologies**
