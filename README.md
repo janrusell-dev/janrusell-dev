@@ -107,9 +107,9 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
   <a href="https://github.com/janrusell-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://janrusell-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a> 
 </p>
 
 ---
