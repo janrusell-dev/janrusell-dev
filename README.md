@@ -16,7 +16,6 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
 - 🌱 Learning **distributed systems and cloud-native technologies**
 - 💡 I love solving complex problems with clean, maintainable code
 - 🎯 Focus areas: **API development, databases, system performance, and DevOps**
-- ⚡ Fun fact: I get excited when I optimize a system and see performance metrics improve!
 
 ---
 
@@ -93,15 +92,6 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janrusell-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
-
----
-
-## 💼 What I'm Currently Working On
-
-- 🔨 Building a **distributed task scheduler** using Go and RabbitMQ
-- 📚 Learning **event-driven architecture** and **CQRS patterns**
-- 🌐 Contributing to open-source projects
-- ✍️ Writing technical articles about backend development
 
 ---
 
