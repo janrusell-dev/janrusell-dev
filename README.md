@@ -85,8 +85,8 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://janrusell-dev-github-readme-stats.vercel.app/api?username=janrusell-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://janrusell-dev-github-readme-stats.vercel.app/api/top-langs/?username=janrusell-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,javascript,css,scss,dart,cmake,dockerfile,makefile,swift,kotlin,c%2B%2B" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janrusell-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janrusell-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,javascript,css,scss,dart,cmake,dockerfile,makefile,swift,kotlin,c%2B%2B" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
