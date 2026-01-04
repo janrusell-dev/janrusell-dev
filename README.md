@@ -93,9 +93,6 @@ I'm a **Backend Developer** from **Philippines** 🇵🇭, passionate about buil
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=janrusell-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janrusell-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
 
 ---
 
